@@ -1,10 +1,10 @@
 exports.ids = ["react-syntax-highlighter_languages_highlight_pf"];
 exports.modules = {
 
-/***/ "../../../node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/pf.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/adamvosburgh/node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/pf.js ***!
-  \***************************************************************************************************************/
+/***/ "./node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/pf.js":
+/*!*********************************************************************************************!*\
+  !*** ./node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/pf.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

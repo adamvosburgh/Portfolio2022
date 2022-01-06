@@ -1,21 +1,31 @@
-import { themes } from 'mdx-deck'
-
-export const theme = themes.dark
+import Layout from './Layout'
+import { dark } from '@mdx-deck/themes'
 
 
 # Hello
 
+
 ---
- 
+
+
 import Page01 from "/static/images/Page01.png";
+
+ <Layout>
 
 <img src={Page01} />
 
+</Layout>
+
 ---
+
 
 import Page02 from "/static/images/Page02.png";
 
-<img src={Page02} />
+<Layout>
+
+<img src={Page02} className="img"/>
+
+</Layout>
 
 ---
 

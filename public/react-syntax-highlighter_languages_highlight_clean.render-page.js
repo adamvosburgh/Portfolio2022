@@ -1,10 +1,10 @@
 exports.ids = ["react-syntax-highlighter_languages_highlight_clean"];
 exports.modules = {
 
-/***/ "../../../node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/clean.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/adamvosburgh/node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/clean.js ***!
-  \******************************************************************************************************************/
+/***/ "./node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/clean.js":
+/*!************************************************************************************************!*\
+  !*** ./node_modules/react-syntax-highlighter/node_modules/highlight.js/lib/languages/clean.js ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 

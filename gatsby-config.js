@@ -1,3 +1,4 @@
+
 module.exports = {
   pathPrefix: '/Portfolio2022',
   plugins: [
@@ -6,6 +7,7 @@ module.exports = {
       resolve: 'gatsby-theme-mdx-deck',
       options: {
         basePath: '/slides',
+        
       },
     },
   ],
