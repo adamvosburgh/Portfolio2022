@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{HAGi:function(n,i,o){"use strict";o.r(i);o("q1tI");var a=o("qKvR");i.default=function(n){var i=n.children;return Object(a.c)("div",{style:{position:"relative",padding:"50px",margin:"auto",backgroundColor:"OldLace",marginTop:"5%",width:"60%",fontFamily:"Open Sans",border:"solid #000000"}},i)}}}]);
-//# sourceMappingURL=component---src-pages-layout-js-1b0626af362d093af755.js.map
