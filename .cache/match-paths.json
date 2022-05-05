@@ -1,0 +1,90 @@
+[
+    {
+        "path": "/slides/beep/print",
+        "matchPath": "/slides/beep/print"
+    },
+    {
+        "path": "/slides/deck copy/print",
+        "matchPath": "/slides/deck copy/print"
+    },
+    {
+        "path": "/slides/deck/print",
+        "matchPath": "/slides/deck/print"
+    },
+    {
+        "path": "/slides/deckcopy2/print",
+        "matchPath": "/slides/deckcopy2/print"
+    },
+    {
+        "path": "/slides/deckcopy3/print",
+        "matchPath": "/slides/deckcopy3/print"
+    },
+    {
+        "path": "/slides/decktest/print",
+        "matchPath": "/slides/decktest/print"
+    },
+    {
+        "path": "/slides/hello/print",
+        "matchPath": "/slides/hello/print"
+    },
+    {
+        "path": "/slides/resume/print",
+        "matchPath": "/slides/resume/print"
+    },
+    {
+        "path": "/slides/vizaward copy 2/print",
+        "matchPath": "/slides/vizaward copy 2/print"
+    },
+    {
+        "path": "/slides/vizaward copy 3/print",
+        "matchPath": "/slides/vizaward copy 3/print"
+    },
+    {
+        "path": "/slides/vizaward/print",
+        "matchPath": "/slides/vizaward/print"
+    },
+    {
+        "path": "/slides/beep",
+        "matchPath": "/slides/beep/*"
+    },
+    {
+        "path": "/slides/deck copy",
+        "matchPath": "/slides/deck copy/*"
+    },
+    {
+        "path": "/slides/deck",
+        "matchPath": "/slides/deck/*"
+    },
+    {
+        "path": "/slides/deckcopy2",
+        "matchPath": "/slides/deckcopy2/*"
+    },
+    {
+        "path": "/slides/deckcopy3",
+        "matchPath": "/slides/deckcopy3/*"
+    },
+    {
+        "path": "/slides/decktest",
+        "matchPath": "/slides/decktest/*"
+    },
+    {
+        "path": "/slides/hello",
+        "matchPath": "/slides/hello/*"
+    },
+    {
+        "path": "/slides/resume",
+        "matchPath": "/slides/resume/*"
+    },
+    {
+        "path": "/slides/vizaward copy 2",
+        "matchPath": "/slides/vizaward copy 2/*"
+    },
+    {
+        "path": "/slides/vizaward copy 3",
+        "matchPath": "/slides/vizaward copy 3/*"
+    },
+    {
+        "path": "/slides/vizaward",
+        "matchPath": "/slides/vizaward/*"
+    }
+]

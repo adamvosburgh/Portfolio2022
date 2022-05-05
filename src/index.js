@@ -1,6 +1,10 @@
 import React from 'react'
 import App from './components/app'
 
+export default function Home() {
+    return <div>Hello world!</div>
+  }
+
 export const wrapPageElement = ({ element }) => <App>{element}</App>
 
 export { Appear } from './components/appear'

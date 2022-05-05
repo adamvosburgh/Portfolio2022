@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"uw1/":function(n,t,c){"use strict";c.r(t);c("q1tI");var e=c("qKvR");t.default=function(n){var t=n.children;return Object(e.c)("div",{style:{}},t)}}}]);
+//# sourceMappingURL=component---src-pages-background-js-d28be99bae73d7226040.js.map
